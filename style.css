@@ -23,6 +23,8 @@ button{
   gap: 20px;;
 }
 .calculate__head {
+  display: grid;
+  justify-items: end;
 }
 .result {
 }
